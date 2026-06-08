@@ -1,3 +1,7 @@
+> **_Reproduction app for https://github.com/vercel/next.js/issues/53473_**
+
+---
+
 This is a [Next.js](https://nextjs.org/) template to use when reporting a [bug in the Next.js repository](https://github.com/vercel/next.js/issues).
 
 ## Getting Started
